@@ -9,7 +9,7 @@
     "entryType": "external",
     "envKey": "VITE_DECISIONER_URL",
     "fallbackUrl": "http://9.135.101.140:3001",
-    "authMode": "sso_token",
+    "authMode": "none",
     "enabled": true,
     "pinned": true,
     "order": 1

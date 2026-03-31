@@ -10,7 +10,7 @@
     "entryType": "external",
     "envKey": "VITE_WORKER_URL",
     "fallbackUrl": "http://9.135.101.140:3002",
-    "authMode": "sso_token",
+    "authMode": "none",
 
     "enabled": true,
     "pinned": true,
