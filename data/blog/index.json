@@ -15,5 +15,19 @@
     "enabled": true,
     "pinned": true,
     "order": 1
+  },
+  {
+    "id": 2,
+    "title": "AI时代的个人感想",
+    "category": "随笔",
+    "categoryKey": "essay",
+    "date": "2026-04-14",
+    "excerpt": "关于AI时代的个人感想",
+    "tags": ["感想", "随笔"],
+    "readTime": 2,
+    "file": "个人感想2026-04-14.md",
+    "enabled": true,
+    "pinned": false,
+    "order": 10
   }
 ]
