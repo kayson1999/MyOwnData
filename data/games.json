@@ -9,7 +9,7 @@
 
     "entryType": "external",
     "envKey": "VITE_WORKER_URL",
-    "fallbackUrl": "http://9.135.101.140:3002",
+    "fallbackUrl": "https://mamba-coder.com/worker",
     "authMode": "none",
 
     "enabled": true,

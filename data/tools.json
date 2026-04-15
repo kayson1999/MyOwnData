@@ -8,7 +8,7 @@
     "tags": ["AI", "头脑风暴", "决策分析"],
     "entryType": "external",
     "envKey": "VITE_DECISIONER_URL",
-    "fallbackUrl": "http://9.135.101.140:3001",
+    "fallbackUrl": "https://mamba-coder.com/decisioner",
     "authMode": "none",
     "enabled": true,
     "pinned": true,
